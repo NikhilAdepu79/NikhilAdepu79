@@ -19,7 +19,13 @@ Focused on AI systems, backend engineering, and applied machine learning.
 * 👯 Open to collaborate on **AI / ML / Backend projects**
 * 💬 Ask me about **Python, APIs, Machine Learning**
 * 📫 Reach me: **adepunikhil79@gmail.com**
+### 🔬 Data Science Interests
 
+- Machine Learning & Predictive Modeling  
+- Data Analysis using Python (Pandas, NumPy)  
+- Data Visualization  
+- Applied AI systems  
+- Building ML-powered APIs with FastAPI
 ---
 
 ### 🧠 Projects
