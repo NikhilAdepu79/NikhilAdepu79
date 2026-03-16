@@ -18,7 +18,7 @@ Focused on AI systems, backend engineering, and applied machine learning.
 * 🌱 Learning **Machine Learning, FastAPI, LLM systems**
 * 👯 Open to collaborate on **AI / ML / Backend projects**
 * 💬 Ask me about **Python, APIs, Machine Learning**
-* 📫 Reach me: **adepunikhil7@gmail.com**
+* 📫 Reach me: **adepunikhil79@gmail.com**
 
 ---
 
