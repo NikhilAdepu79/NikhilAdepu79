@@ -58,6 +58,7 @@ Machine learning system for automated loan approval prediction and EMI analysis.
 
 #### Databases
 
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
 
 #### Tools
