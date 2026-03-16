@@ -18,7 +18,7 @@ Focused on AI systems, backend engineering, and applied machine learning.
 * 🌱 Learning **Machine Learning, FastAPI, LLM systems**
 * 👯 Open to collaborate on **AI / ML / Backend projects**
 * 💬 Ask me about **Python, APIs, Machine Learning**
-* 📫 Reach me: **(mailto:adepunikhil7@gmail.com)**
+* 📫 Reach me: **adepunikhil7@gmail.com**
 
 ---
 
@@ -62,13 +62,15 @@ Machine learning system for automated loan evaluation.
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NikhilAdepu79&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilAdepu79&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilAdepu79&layout=compact&theme=tokyonight"/>
 
 </p>
 
