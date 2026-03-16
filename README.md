@@ -30,11 +30,11 @@ Focused on AI systems, backend engineering, and applied machine learning.
 
 ### 🧠 Projects
 
-**AI-Powered Assistive Mobility Tool for the Visually Impaired**
-Computer vision based navigation assistance system.
+**[AI-Powered Assistive Mobility Tool for the Visually Impaired](https://github.com/NikhilAdepu79/AI-Powered-Assistive-Mobility-Tool-for-Visually-Impaired)**  
+Computer vision–based navigation assistance system that detects obstacles and provides audio feedback.
 
-**AI-Powered Intelligent Loan Approval & EMI Analysis Platform**
-Machine learning system for automated loan evaluation.
+**[AI-Powered Intelligent Loan Approval & EMI Analysis Platform](https://github.com/NikhilAdepu79/Loan-Approval-EMI-Analysis-platform)**  
+Machine learning system for automated loan approval prediction and EMI analysis.
 
 ---
 
