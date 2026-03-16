@@ -18,7 +18,7 @@ Focused on AI systems, backend engineering, and applied machine learning.
 * 🌱 Learning **Machine Learning, FastAPI, LLM systems**
 * 👯 Open to collaborate on **AI / ML / Backend projects**
 * 💬 Ask me about **Python, APIs, Machine Learning**
-* 📫 Reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+* 📫 Reach me: **(mailto:adepunikhil7@gmail.com)**
 
 ---
 
@@ -55,7 +55,6 @@ Machine learning system for automated loan evaluation.
 
 #### Tools
 
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 
@@ -77,7 +76,7 @@ Machine learning system for automated loan evaluation.
 
 ### 🌐 Connect
 
-* GitHub: https://github.com/YOURUSERNAME
-* LinkedIn: https://linkedin.com/in/yourprofile
+* GitHub: https://github.com/NikhilAdepu79
+* LinkedIn: https://www.linkedin.com/in/adepu-nikhil-21308431b/
 
 ---
