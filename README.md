@@ -60,7 +60,6 @@ Machine learning system for automated loan evaluation.
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
