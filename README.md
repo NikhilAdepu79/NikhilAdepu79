@@ -1,16 +1,83 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Adepu Nikhil</h1>
+<h3 align="center">MSc Artificial Intelligence & Data Science Student</h3>
 
-<!--
-**NikhilAdepu79/NikhilAdepu79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Focused on AI systems, backend engineering, and applied machine learning.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+
+* 🎓 MSc in **Artificial Intelligence & Data Science**
+* 🔭 Currently working on **AI-powered backend systems**
+* 🌱 Learning **Machine Learning, FastAPI, LLM systems**
+* 👯 Open to collaborate on **AI / ML / Backend projects**
+* 💬 Ask me about **Python, APIs, Machine Learning**
+* 📫 Reach me: **[your-email@gmail.com](mailto:your-email@gmail.com)**
+
+---
+
+### 🧠 Projects
+
+**AI-Powered Assistive Mobility Tool for the Visually Impaired**
+Computer vision based navigation assistance system.
+
+**AI-Powered Intelligent Loan Approval & EMI Analysis Platform**
+Machine learning system for automated loan evaluation.
+
+---
+
+### 🛠 Tech Stack
+
+#### Languages
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge\&logo=mysql)
+
+#### AI / ML
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge\&logo=tensorflow)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikitlearn)
+![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge\&logo=opencv)
+
+#### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge\&logo=fastapi)
+
+#### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+
+#### Tools
+
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+### 🌐 Connect
+
+* GitHub: https://github.com/YOURUSERNAME
+* LinkedIn: https://linkedin.com/in/yourprofile
+
+---
