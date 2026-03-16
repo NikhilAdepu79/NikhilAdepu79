@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adepu Nikhil</h1>
-<h3 align="center">MSc Artificial Intelligence & Data Science Student</h3>
+<h3 align="center">AI & Data Science Enthusiast | Machine Learning | Backend Systems</h3>
 
 <p align="center">
 Focused on AI systems, backend engineering, and applied machine learning.
@@ -50,6 +50,9 @@ Machine learning system for automated loan evaluation.
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge\&logo=tensorflow)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange?style=for-the-badge\&logo=scikitlearn)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge\&logo=opencv)
+![Pandas](https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=plotly)
 
 #### Backend
 
