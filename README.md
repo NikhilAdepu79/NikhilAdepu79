@@ -13,11 +13,10 @@ Focused on AI systems, backend engineering, and applied machine learning.
 
 ### 🚀 About Me
 
-* 🔭 Currently working on **AI-powered backend systems**
-* 🌱 Learning **Machine Learning, FastAPI, LLM systems**
-* 👯 Open to collaborate on **AI / ML / Backend projects**
-* 💬 Ask me about **Python, APIs, Machine Learning**
-* 📫 Reach me: **adepunikhil79@gmail.com**
+* 📱 **Currently Building:** AI-powered mobile and backend automation systems.
+* 🛠️ **Learning:** Advanced LLM orchestration (Ollama/Llama 3), Scalable FastAPI architectures, and Agentic AI.
+* 🤝 **Open to:** Collaborating on Open Source AI/ML and Backend projects.
+* 📫 **Reach me**: **adepunikhil79@gmail.com**
 
 ### 🔬 Data Science Interests
 
