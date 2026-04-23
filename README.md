@@ -6,7 +6,7 @@ Focused on AI systems, backend engineering, and applied machine learning.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=NikhilAdepu79&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -19,28 +19,33 @@ Focused on AI systems, backend engineering, and applied machine learning.
 * 👯 Open to collaborate on **AI / ML / Backend projects**
 * 💬 Ask me about **Python, APIs, Machine Learning**
 * 📫 Reach me: **adepunikhil79@gmail.com**
+
 ### 🔬 Data Science Interests
 
-- Machine Learning & Predictive Modeling  
-- Data Analysis using Python (Pandas, NumPy)  
-- Data Visualization  
-- Applied AI systems  
+- Machine Learning & Predictive Modeling
+- Data Analysis using Python (Pandas, NumPy)
+- Data Visualization
+- Applied AI systems
 - Building ML-powered APIs with FastAPI
+
 ---
 
 ### 🧠 Projects
 
-**[AI-Powered Assistive Mobility Tool for the Visually Impaired](https://github.com/NikhilAdepu79/AI-Powered-Assistive-Mobility-Tool-for-Visually-Impaired)**  
-Computer vision–based navigation assistance system that detects obstacles and provides audio feedback.
+**[Smart SMS Assistant](https://github.com/NikhilAdepu79/Smart-SMS-Assistant)** A 100% Kotlin-based automated response system that manages missed calls and SMS with intelligent, context-aware English greetings and JSON-based keyword logic.
 
-**[AI-Powered Intelligent Loan Approval & EMI Analysis Platform](https://github.com/NikhilAdepu79/Loan-Approval-EMI-Analysis-platform)**  
-Machine learning system for automated loan approval prediction and EMI analysis.
+**[AI-Powered Assistive Mobility Tool for the Visually Impaired](https://github.com/NikhilAdepu79/AI-Powered-Assistive-Mobility-Tool-for-Visually-Impaired)** Computer vision–based navigation assistance system that detects obstacles and provides audio feedback.
+
+**[AI-Powered Intelligent Loan Approval & EMI Analysis Platform](https://github.com/NikhilAdepu79/Loan-Approval-EMI-Analysis-platform)** Machine learning system for automated loan approval prediction and EMI analysis.
+
+---
 
 ### 🛠 Tech Stack
 
 #### Languages
 
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge\&logo=kotlin)
 ![SQL](https://img.shields.io/badge/SQL-grey?style=for-the-badge\&logo=mysql)
 
 #### AI / ML
@@ -52,9 +57,10 @@ Machine learning system for automated loan approval prediction and EMI analysis.
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge&logo=plotly)
 
-#### Backend
+#### Backend & Mobile
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge\&logo=fastapi)
+![Android SDK](https://img.shields.io/badge/Android%20SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 #### Databases
 
@@ -68,14 +74,13 @@ Machine learning system for automated loan approval prediction and EMI analysis.
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=NikhilAdepu79&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilAdepu79&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.app/?user=NikhilAdepu79&theme=tokyonight"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilAdepu79&layout=compact&theme=tokyonight"/>
 
