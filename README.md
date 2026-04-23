@@ -13,7 +13,6 @@ Focused on AI systems, backend engineering, and applied machine learning.
 
 ### 🚀 About Me
 
-* 🎓 MSc in **Artificial Intelligence & Data Science**
 * 🔭 Currently working on **AI-powered backend systems**
 * 🌱 Learning **Machine Learning, FastAPI, LLM systems**
 * 👯 Open to collaborate on **AI / ML / Backend projects**
