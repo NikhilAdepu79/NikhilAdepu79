@@ -30,7 +30,7 @@ Focused on AI systems, backend engineering, and applied machine learning.
 
 ### 🧠 Projects
 
-**[Smart SMS Assistant](https://github.com/NikhilAdepu79/Smart-SMS-Assistant)** A 100% Kotlin-based automated response system that manages missed calls and SMS with intelligent, context-aware English greetings and JSON-based keyword logic.
+**[Smart SMS Assistant App](https://github.com/NikhilAdepu79/Smart-SMS-Assistant-App)** A 100% Kotlin-based automated response system that manages missed calls and SMS with intelligent, context-aware English greetings and JSON-based keyword logic.
 
 **[AI-Powered Assistive Mobility Tool for the Visually Impaired](https://github.com/NikhilAdepu79/AI-Powered-Assistive-Mobility-Tool-for-Visually-Impaired)** Computer vision–based navigation assistance system that detects obstacles and provides audio feedback.
 
